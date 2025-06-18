@@ -1,1 +1,2 @@
-# Retail-Sales-Analysis-
+# Retail-Sales-Analysis
+The Excel and SQL files together form the foundation of a Retail Sales Analysis project. The Excel file contains transactional sales data, including customer details, product categories, quantities, pricing, and total sales. The SQL file defines the structure of a retail sales table and includes basic data exploration queries (e.g., checking for missing values, counting records). This setup enables importing the data into a database for further querying, cleaning, and analysis of retail sales trends and customer behavior.
